@@ -21,6 +21,15 @@ Demonstrates bitwise operations on 4-bit inputs.
 ### 3. 7458 Logic
 Implements a combinational circuit using AND-OR logic.
 
+### 4. Four Input Gates 
+Implements and, or, nor operations on a singular [3:0] input vector.
+
+### 5. Vector Concatenation
+Implements vector concatenation and uncerstanding sizing syntax
+
+### 6. Vector Replication Operator
+Implements signs extenders using the replication operator.
+
 ## Learning Outcome
 - Understanding how Verilog maps to hardware
 - Writing clean combinational logic
